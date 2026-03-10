@@ -20,10 +20,4 @@ DAO Pattern
 - Database integration
 - CRUD operations
 
-## Setup
 
-1. Clone repository
-2. Import project into IntelliJ / Eclipse
-3. Run database.sql in MySQL
-4. Update DB credentials in DBConnection.java
-5. Run MainApp.java
